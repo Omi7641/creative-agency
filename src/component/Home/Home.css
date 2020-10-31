@@ -1,0 +1,39 @@
+.logo {
+  width: 110px;
+}
+.navLink a {
+  font-weight: bold;
+}
+.TopHeader {
+  background-color: #f1c40f;
+}
+.secondHead {
+  display: flex;
+  padding: 0px 50px;
+}
+.special {
+  color: green;
+}
+.box {
+  text-align: center;
+}
+.box2 {
+  border: 0.1px solid gray;
+  background-color: #181838;
+  color: white;
+}
+.footer {
+  background-color: #f1c40f;
+  padding: 80px;
+}
+.inputBox {
+  width: 500px;
+  height: 50px;
+  margin-top: 10px;
+}
+.inputBox1 {
+  width: 500px;
+  height: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
